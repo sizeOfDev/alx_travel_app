@@ -1,8 +1,0 @@
-mysqlclient==2.2.7
-Django
-djangorestframework
-django-cors-headers
-drf-yasg
-mysqlclient
-django-environ
-celery
